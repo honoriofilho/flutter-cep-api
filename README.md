@@ -32,6 +32,7 @@ Nesta POC, a arquitetura é dividida nas seguintes camadas:
 
 ## Estrutura do Projeto
 
+```
 cep_app/
 ├── lib/
 │ ├── app.dart # Widget raiz do aplicativo (GetMaterialApp)
@@ -56,7 +57,7 @@ cep_app/
 │ └── main.dart # Ponto de entrada do aplicativo
 ├── pubspec.yaml # Arquivo de configuração do Flutter
 └── README.md # Este arquivo
-
+```
 
 ## Como Executar
 
